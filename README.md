@@ -1,21 +1,21 @@
-# 💰 PennyPilot
+#  PennyPilot
 
 PennyPilot is a modern **finance management app** that helps users track, analyze, and optimize their spending habits.  
 Built with **Next.js, Prisma, Firebase, and Vercel**, it combines performance, security, and simplicity to deliver a smooth user experience.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📊 **Expense Tracking** – Log daily income and expenses.  
-- 🔐 **Authentication** – Secure login/signup with Firebase.  
-- 🗄 **Database** – PostgreSQL via Prisma ORM.  
-- 🌐 **Deployment** – Hosted on Vercel for global performance.  
-- ⚡ **Modern UI** – Built with React and Tailwind CSS.  
+-  **Expense Tracking** – Log daily income and expenses.  
+-  **Authentication** – Secure login/signup with Firebase.  
+-  **Database** – PostgreSQL via Prisma ORM.  
+-  **Deployment** – Hosted on Vercel for global performance.  
+-  **Modern UI** – Built with React and Tailwind CSS.  
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** [Next.js](https://nextjs.org/) + [React](https://react.dev/)  
 - **Backend:** Next.js API Routes  
